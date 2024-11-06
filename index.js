@@ -9,7 +9,7 @@ class BlackboxAI {
       // Add any necessary headers here, like Authorization if needed
     };
     this.conversationHistory = {}; // Use an object to manage conversation histories by ID
-    this.defaultModel = 'blackboxai'; // Default model selection
+    this.defaultModel = 'gemini-pro'; // Default model selection
     /*
     Available model
     gpt-4o
